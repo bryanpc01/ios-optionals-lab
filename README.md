@@ -585,7 +585,7 @@ print(outputString)
 ```
 
 
-## Question 23 Need to finish
+## Question 23
 
 Given the value below, print out all of the non-nil Ints it contains by accessing each of them.
 
